@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecruitmentTask</string>
+    <string name="available">Available:</string>
+    <string name="sold">Sold:</string>
+</resources>
